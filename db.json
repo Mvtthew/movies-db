@@ -66,7 +66,7 @@
 		},
 		{
 			"id": 5,
-			"title": "Władca Pierścieni - Powrót królaPeter Jackson",
+			"title": "Władca Pierścieni - Powrót króla",
 			"year": 2003,
 			"premiere": "23 września 2011",
 			"usersRating": 8.4,
@@ -78,6 +78,93 @@
 			"thumbnailUrl": "https://fwcdn.pl/fpo/18/41/11841/7494142.6.jpg",
 			"trailerVideoUrls": [
 				"https://fwcdn.pl/video/f/141/11841/the_lord_of_the_rings_the_return_of_the_king___official__trailer__hd_.vp9.480p.webm"
+			]
+		}
+	],
+	"topTvShows": [
+		{
+			"id": 1,
+			"title": "Dom z papieru",
+			"year": 2017,
+			"premiere": "20 grudnia 2017",
+			"usersRating": 8.3,
+			"criticsRating": 7.7,
+			"seasons": 5,
+			"averageDurationMinutes": 48,
+			"description": "Ośmioro zamaskowanych przestępców napada na hiszpańską mennicę narodową. Ich przedstawicielem jest tajemniczy Profesor, który prowadzi negocjacje z policją.",
+			"genre": "Thriller / Akcja",
+			"director": "Álex Pina",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/28/26/792826/7969863.3.jpg",
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/226/792826/dom_z_papieru___sezon_4___oficjalny_zwiastun___netflix.vp9.480p.webm"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Gra o tron",
+			"year": 2011,
+			"premiere": "17 kwietnia 2011",
+			"usersRating": 8.8,
+			"criticsRating": 7.7,
+			"seasons": 8,
+			"averageDurationMinutes": 55,
+			"description": "Adaptacja sagi George'a R.R. Martina. W królestwie Westeros walka o władzę, spiski oraz zbrodnie są na porządku dziennym.",
+			"genre": "Dramat / Fantasy / Przygodowy",
+			"director": "Alan Taylor / Mark Mylod / Alex Graves / Jeremy Podeswa",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/68/48/476848/7794141.6.jpg",
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/148/476848/gra_o_tron_sezon_8_oficjalny_trailer_hbo_1080p.vp9.480p.webm"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Stranger Things",
+			"year": 2016,
+			"premiere": "15 lipca 2016",
+			"usersRating": 8.3,
+			"criticsRating": 7.2,
+			"seasons": 4,
+			"averageDurationMinutes": 49,
+			"description": "Podczas powrotu do domu znika dwunastoletni Will Byers. Zaginięcie chłopca jest początkiem dziwnych i niebezpiecznych wydarzeń trapiących prowincjonalne miasteczko.",
+			"genre": "Dramat / Horror / Sci-Fi",
+			"director": "Shawn Levy",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/03/59/750359/7888222.6.jpg",
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/59/750359/stranger_things_3_finaowy_zwiastun_netflix_1080p.vp9.480p.webm"
+			]
+		},
+		{
+			"id": 4,
+			"title": "House of Cards",
+			"year": 2013,
+			"premiere": "1 lutego 2013",
+			"usersRating": 8.4,
+			"criticsRating": 7.9,
+			"seasons": 6,
+			"averageDurationMinutes": 61,
+			"description": "Francis Underwood jest bezwzględnym politykiem próbującym się zemścić na prezydencie, który pominął go przy obsadzeniu stanowiska sekretarza stanu.",
+			"genre": "Dramat / Polityczny",
+			"director": "Robin Wright",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/00/36/620036/7855884.6.jpg",
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/236/620036/house_of_cards___oficjalny_zwiastun__sezon_6__hd____netflix.vp9.480p.webm"
+			]
+		},
+		{
+			"id": 5,
+			"title": "The Walking Dead",
+			"year": 2010,
+			"premiere": " 31 października 2010",
+			"usersRating": 7.8,
+			"criticsRating": 6.2,
+			"seasons": 11,
+			"averageDurationMinutes": 47,
+			"description": "Świat opanowały zombie. Grupka ocalałych szuka bezpiecznego schronienia.",
+			"genre": "Dramat / Horror",
+			"director": "Frank Darabont",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/70/35/547035/7856859.6.jpg",
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/135/547035/first_look_the_walking_dead_season_9_trailer.vp9.480p.webm"
 			]
 		}
 	],
