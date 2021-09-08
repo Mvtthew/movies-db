@@ -1,6 +1,11 @@
 [
-	{
-		"id": 1,
-		"title": "Lo lo Land"
+	movies: [
+		{
+			"id": 1,
+			"title": "Lo lo Land"
+		}
+	],
+	"profile": {
+		"name": "typicode"
 	}
 ]
