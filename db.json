@@ -1,8 +1,84 @@
 {
-	"movies": [
+	"topMovies": [
 		{
 			"id": 1,
-			"title": "Lo lo Land"
+			"title": "Skazani na Shawshank",
+			"year": 1994,
+			"premiere": "10 września 1994"
+			"usersRating": 8.8,
+			"criticsRating": 7.9,
+			"durationMinutes": 142,
+			"description": "Adaptacja opowiadania Stephena Kinga. Niesłusznie skazany na dożywocie bankier, stara się przetrwać w brutalnym, więziennym świecie.",
+			"genre": "Dramat",
+			"director": "Frank Darabont",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/10/48/1048/7905327.3.jpg"
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/148/1048/the_shawshank_redemption___trailer.vp9.480p.webm"
+			],
+		},
+		{
+			"id": 2,
+			"title": "Zielona mila",
+			"year": 1999,
+			"premiere": "6 grudnia 1999"
+			"usersRating": 8.6,
+			"criticsRating": 6.5,
+			"durationMinutes": 188,
+			"description": "Emerytowany strażnik więzienny opowiada przyjaciółce o niezwykłym mężczyźnie, którego skazano na śmierć za zabójstwo dwóch 9-letnich dziewczynek.",
+			"genre": "Dramat",
+			"director": "Frank Darabont",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/08/62/862/7517878.6.jpg"
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/262/862/the_green_mile___official_trailer__hd_.vp9.480p.webm"
+			],
+		},
+		{
+			"id": 3,
+			"title": "Forrest Gump",
+			"year": 1994,
+			"premiere": "23 czerwca 1994"
+			"usersRating": 8.5,
+			"criticsRating": 7.7,
+			"durationMinutes": 148,
+			"description": "Historia życia Forresta, chłopca o niskim ilorazie inteligencji z niedowładem kończyn, który staje się miliarderem i bohaterem wojny w Wietnamie.",
+			"genre": "Dramat / Komiedia",
+			"director": "Robert Zemeckis",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/09/98/998/7314731.6.jpg"
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/98/998/forrest_gump___official__trailer__hd_.vp9.480p.webm"
+			],
+		},
+		{
+			"id": 4,
+			"title": "Nietykalni",
+			"year": 2011,
+			"premiere": "23 czerwca 1994"
+			"usersRating": 8.7,
+			"criticsRating": 6.2,
+			"durationMinutes": 118,
+			"description": "Zwieńczenie filmowej trylogii wg powieści Tolkiena. Aragorn jednoczy siły Śródziemia, szykując się do bitwy, która ma odwrócić uwagę Saurona od podążających w kierunku Góry Przeznaczenia hobbitów.",
+			"genre": "Biograficzny / Dramat / Komedia",
+			"director": "Olivier Nakache / Éric Toledano",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/33/90/583390/7441162.6.jpg"
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/583390/nietykalni_zwiastun_120307_v5.iphone.mp4"
+			],
+		},
+		{
+			"id": 5,
+			"title": "Władca Pierścieni - Powrót królaPeter Jackson",
+			"year": 2003,
+			"premiere": "23 czerwca 1994"
+			"usersRating": 8.4,
+			"criticsRating": 6.2,
+			"durationMinutes": 201,
+			"description": "Zwieńczenie filmowej trylogii wg powieści Tolkiena. Aragorn jednoczy siły Śródziemia, szykując się do bitwy, która ma odwrócić uwagę Saurona od podążających w kierunku Góry Przeznaczenia hobbitów.",
+			"genre": "Fantasy / Przygodowy",
+			"director": "Peter Jackson",
+			"thumbnailUrl": "https://fwcdn.pl/fpo/18/41/11841/7494142.6.jpg"
+			"trailerVideoUrls": [
+				"https://fwcdn.pl/video/f/141/11841/the_lord_of_the_rings_the_return_of_the_king___official__trailer__hd_.vp9.480p.webm"
+			],
 		}
 	],
 	"profile": {
