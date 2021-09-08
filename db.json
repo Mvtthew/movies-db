@@ -154,7 +154,7 @@
 			"id": 5,
 			"title": "The Walking Dead",
 			"year": 2010,
-			"premiere": " 31 października 2010",
+			"premiere": "31 października 2010",
 			"usersRating": 7.8,
 			"criticsRating": 6.2,
 			"seasons": 11,
@@ -168,6 +168,26 @@
 			]
 		}
 	],
+	"hero": {
+		"id": 1,
+		"title": "W garniturach",
+		"year": 2011,
+		"premiere": "23 czerwca 2011",
+		"usersRating": 8.7,
+		"criticsRating": 7.2,
+		"seasons": 9,
+		"averageDurationMinutes": 42,
+		"description": "Dzięki swojej fotograficznej pamięci i ponadprzeciętnej inteligencji Mike Ross zdobywa pracę u Harveya Spectera. Jednak firma, w której pracuje, zatrudnia jedynie prawników z Uniwersytetu Harvarda.",
+		"genre": "Dramat / Horror",
+		"director": "Frank Darabont",
+		"thumbnailUrls": [
+			"https://www.serialowa.pl/wpr/wp-content/uploads/2018/06/suits-season-8-poster2.jpg",
+			"https://images.squarespace-cdn.com/content/v1/56f91e63ab48de2c7c1ee908/1471582208996-UMPR7QOPJXCFT3QGH902/Thumbnail%3AFacebook.jpg?format=1500w",
+			"https://static.displate.com/857x1200/displate/2021-02-03/e849dd3422baabb7c20dbd34bff371bb_a83bedafeee0e0310e9632f311e14596.jpg",
+			"https://www.santabanta.com/images/wallpapers/online-streaming/poster-of-american-legal-drama-series-suits-season-8-2019_1024-768.jpg",
+			"https://tv-fanatic-res.cloudinary.com/iu/s--KFZ7Lw9Z--/f_auto,q_auto/v1556736011/pearson-poster-suits"
+		]
+	},
 	"profile": {
 		"name": "typicode"
 	}
